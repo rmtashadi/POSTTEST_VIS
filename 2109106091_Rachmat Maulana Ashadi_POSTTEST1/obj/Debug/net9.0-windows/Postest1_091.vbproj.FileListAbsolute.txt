@@ -1,0 +1,34 @@
+D:\Personal Archives\sementara\Postest1_091\bin\Debug\net9.0-windows\Postest1_091.exe
+D:\Personal Archives\sementara\Postest1_091\bin\Debug\net9.0-windows\Postest1_091.deps.json
+D:\Personal Archives\sementara\Postest1_091\bin\Debug\net9.0-windows\Postest1_091.runtimeconfig.json
+D:\Personal Archives\sementara\Postest1_091\bin\Debug\net9.0-windows\Postest1_091.dll
+D:\Personal Archives\sementara\Postest1_091\bin\Debug\net9.0-windows\Postest1_091.pdb
+D:\Personal Archives\sementara\Postest1_091\obj\Debug\net9.0-windows\Postest1_091.Form1.resources
+D:\Personal Archives\sementara\Postest1_091\obj\Debug\net9.0-windows\Postest1_091.Resources.resources
+D:\Personal Archives\sementara\Postest1_091\obj\Debug\net9.0-windows\Postest1_091.vbproj.GenerateResource.cache
+D:\Personal Archives\sementara\Postest1_091\obj\Debug\net9.0-windows\Postest1_091.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Archives\sementara\Postest1_091\obj\Debug\net9.0-windows\Postest1_091.AssemblyInfoInputs.cache
+D:\Personal Archives\sementara\Postest1_091\obj\Debug\net9.0-windows\Postest1_091.AssemblyInfo.vb
+D:\Personal Archives\sementara\Postest1_091\obj\Debug\net9.0-windows\Postest1_091.vbproj.CoreCompileInputs.cache
+D:\Personal Archives\sementara\Postest1_091\obj\Debug\net9.0-windows\Postest1_091.dll
+D:\Personal Archives\sementara\Postest1_091\obj\Debug\net9.0-windows\refint\Postest1_091.dll
+D:\Personal Archives\sementara\Postest1_091\obj\Debug\net9.0-windows\Postest1_091.pdb
+D:\Personal Archives\sementara\Postest1_091\obj\Debug\net9.0-windows\Postest1_091.genruntimeconfig.cache
+D:\Personal Archives\sementara\Postest1_091\obj\Debug\net9.0-windows\ref\Postest1_091.dll
+D:\Personal Archives\sementara\2109106091_Rachmat Maulana Ashadi_POSTTEST1\bin\Debug\net9.0-windows\Postest1_091.exe
+D:\Personal Archives\sementara\2109106091_Rachmat Maulana Ashadi_POSTTEST1\bin\Debug\net9.0-windows\Postest1_091.deps.json
+D:\Personal Archives\sementara\2109106091_Rachmat Maulana Ashadi_POSTTEST1\bin\Debug\net9.0-windows\Postest1_091.runtimeconfig.json
+D:\Personal Archives\sementara\2109106091_Rachmat Maulana Ashadi_POSTTEST1\bin\Debug\net9.0-windows\Postest1_091.dll
+D:\Personal Archives\sementara\2109106091_Rachmat Maulana Ashadi_POSTTEST1\bin\Debug\net9.0-windows\Postest1_091.pdb
+D:\Personal Archives\sementara\2109106091_Rachmat Maulana Ashadi_POSTTEST1\obj\Debug\net9.0-windows\Postest1_091.Form1.resources
+D:\Personal Archives\sementara\2109106091_Rachmat Maulana Ashadi_POSTTEST1\obj\Debug\net9.0-windows\Postest1_091.Resources.resources
+D:\Personal Archives\sementara\2109106091_Rachmat Maulana Ashadi_POSTTEST1\obj\Debug\net9.0-windows\Postest1_091.vbproj.GenerateResource.cache
+D:\Personal Archives\sementara\2109106091_Rachmat Maulana Ashadi_POSTTEST1\obj\Debug\net9.0-windows\Postest1_091.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Archives\sementara\2109106091_Rachmat Maulana Ashadi_POSTTEST1\obj\Debug\net9.0-windows\Postest1_091.AssemblyInfoInputs.cache
+D:\Personal Archives\sementara\2109106091_Rachmat Maulana Ashadi_POSTTEST1\obj\Debug\net9.0-windows\Postest1_091.AssemblyInfo.vb
+D:\Personal Archives\sementara\2109106091_Rachmat Maulana Ashadi_POSTTEST1\obj\Debug\net9.0-windows\Postest1_091.vbproj.CoreCompileInputs.cache
+D:\Personal Archives\sementara\2109106091_Rachmat Maulana Ashadi_POSTTEST1\obj\Debug\net9.0-windows\Postest1_091.dll
+D:\Personal Archives\sementara\2109106091_Rachmat Maulana Ashadi_POSTTEST1\obj\Debug\net9.0-windows\refint\Postest1_091.dll
+D:\Personal Archives\sementara\2109106091_Rachmat Maulana Ashadi_POSTTEST1\obj\Debug\net9.0-windows\Postest1_091.pdb
+D:\Personal Archives\sementara\2109106091_Rachmat Maulana Ashadi_POSTTEST1\obj\Debug\net9.0-windows\Postest1_091.genruntimeconfig.cache
+D:\Personal Archives\sementara\2109106091_Rachmat Maulana Ashadi_POSTTEST1\obj\Debug\net9.0-windows\ref\Postest1_091.dll
