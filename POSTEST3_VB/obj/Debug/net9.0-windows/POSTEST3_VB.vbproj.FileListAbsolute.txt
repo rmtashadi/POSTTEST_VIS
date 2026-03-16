@@ -1,0 +1,13 @@
+D:\Dokumen Kuliah\sementara\POSTEST3_VB\bin\Debug\net9.0-windows\POSTEST3_VB.exe
+D:\Dokumen Kuliah\sementara\POSTEST3_VB\bin\Debug\net9.0-windows\POSTEST3_VB.dll
+D:\Dokumen Kuliah\sementara\POSTEST3_VB\obj\Debug\net9.0-windows\POSTEST3_VB.Form1.resources
+D:\Dokumen Kuliah\sementara\POSTEST3_VB\obj\Debug\net9.0-windows\POSTEST3_VB.Form2.resources
+D:\Dokumen Kuliah\sementara\POSTEST3_VB\obj\Debug\net9.0-windows\POSTEST3_VB.Resources.resources
+D:\Dokumen Kuliah\sementara\POSTEST3_VB\obj\Debug\net9.0-windows\POSTEST3_VB.vbproj.GenerateResource.cache
+D:\Dokumen Kuliah\sementara\POSTEST3_VB\obj\Debug\net9.0-windows\POSTEST3_VB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumen Kuliah\sementara\POSTEST3_VB\obj\Debug\net9.0-windows\POSTEST3_VB.AssemblyInfoInputs.cache
+D:\Dokumen Kuliah\sementara\POSTEST3_VB\obj\Debug\net9.0-windows\POSTEST3_VB.AssemblyInfo.vb
+D:\Dokumen Kuliah\sementara\POSTEST3_VB\obj\Debug\net9.0-windows\POSTEST3_VB.vbproj.CoreCompileInputs.cache
+D:\Dokumen Kuliah\sementara\POSTEST3_VB\obj\Debug\net9.0-windows\POSTEST3_VB.dll
+D:\Dokumen Kuliah\sementara\POSTEST3_VB\obj\Debug\net9.0-windows\refint\POSTEST3_VB.dll
+D:\Dokumen Kuliah\sementara\POSTEST3_VB\obj\Debug\net9.0-windows\POSTEST3_VB.pdb
